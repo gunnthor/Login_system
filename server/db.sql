@@ -1,0 +1,1 @@
+CREATE TABLE USERS(id uuid uuid_generate_v4(), email varchar(40), pwd varchar(40))
