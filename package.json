@@ -1,8 +1,8 @@
 {
-  "name": "boilerplate-react-app",
+  "name": "Login_system",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Andrew Mead",
+  "author": "",
   "license": "MIT",
   "scripts": {
     "build:dev": "webpack",
