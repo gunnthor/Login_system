@@ -33,8 +33,7 @@ function selectDbConfig(){
 	}
 
 	else
-	{
-		const {LOCAL_USER, LOCAL_PWD} = require('../config');
+	{		
 		config = {
 		  user: LOCAL_USER, //env var: PGUSER 
 		  database: local_db, //env var: PGDATABASE 

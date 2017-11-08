@@ -15,4 +15,4 @@ app.listen(port, () => {
   console.log('Server is up!');
 });
 
-
+db.test();
